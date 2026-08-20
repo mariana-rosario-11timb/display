@@ -2,19 +2,27 @@ a{
     display: inline-block;
     border: 1px solid black;
     color: blue;
-    
+    height: 40px;
+    width: 70px;
+    text-align: center;
 }
 p{
+    display: inline-block;
     border: 1px solid black;
+    width: 150px;
+    height: 150px;
 }
 span {
     display: inline;
     border: 1px solid black;
 }
 footer {
-display: inline;
+    display: block;
+    border: 1px solid black;
+    height: 50px;
 }
-main{
+.aa{
+    border: none;
     display: inline;
 }
 
