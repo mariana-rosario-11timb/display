@@ -1,0 +1,20 @@
+a{
+    display: inline-block;
+    border: 1px solid black;
+    color: blue;
+    
+}
+p{
+    border: 1px solid black;
+}
+span {
+    display: inline;
+    border: 1px solid black;
+}
+footer {
+display: inline;
+}
+main{
+    display: inline;
+}
+
